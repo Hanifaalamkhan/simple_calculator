@@ -1,0 +1,19 @@
+{
+  "name": "h8an0-simple_calculator",
+  "version": "1.0.1",
+  "description": "A simple calculator with typescript,Node.js and inquirer.",
+  "main": "app.js",
+  "type": "module",
+  "bin" : "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  }
+}
